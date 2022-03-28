@@ -1,0 +1,22 @@
+{
+  "name": "taller_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javandres/taller_challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javandres/taller_challenge/issues"
+  },
+  "homepage": "https://github.com/javandres/taller_challenge#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
